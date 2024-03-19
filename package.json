@@ -1,0 +1,18 @@
+{
+  "name": "com.dinomitestudios.authentication",
+  "displayName": "Dinomite.Authentication",
+  "description": "A general use service for player authentication.",
+  "version": "1.0.0",
+  "unity": "2022.2",
+  "author": "Dinomite Studios",
+  "keywords": [
+    "User",
+    "Player",
+    "Authentication",
+    "Login",
+    "SignUp"
+  ],
+  "dependencies": {
+    "com.realitycollective.service-framework": "1.0.0"
+  }
+}
