@@ -2,7 +2,7 @@
   "name": "com.dinomitestudios.authentication",
   "displayName": "Dinomite.Authentication",
   "description": "A general use service for player authentication.",
-  "version": "1.0.0",
+  "version": "1.0.0-pre.1",
   "unity": "2022.2",
   "author": "Dinomite Studios",
   "keywords": [
